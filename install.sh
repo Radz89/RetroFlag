@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SourcePath=https://github.com/RetroFlag/retroflag-picase
+SourcePath=https://github.com/RetroFlag/retroflag-picase/blob/main
 
 #Check if root--------------------------------------
 if [[ $EUID -ne 0 ]]; then
